@@ -22,8 +22,8 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          A Full Stack Developer. <br /> Love BFY, Fashion, Formula 1, Liverpool
-          FC, Cookies.{' '}
+          A Full Stack Developer. <br /> Love Fashion, Formula 1, Liverpool FC,
+          Cookies.{' '}
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
